@@ -1,3 +1,8 @@
+/*
+We need to consider nums[i] and nums[j], where j = i+1.
+i.e. ==> compares  (nums[i]+nums[j]==target)
+This solution is really fast, just takes 148 ms, compared to general solution of 340ms
+*/
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
