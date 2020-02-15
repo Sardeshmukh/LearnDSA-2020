@@ -1,0 +1,2 @@
+#List of Question patterns asked in the interview
+1. Reverse a string (Recursive, Iterative)
