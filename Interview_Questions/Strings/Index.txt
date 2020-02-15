@@ -1,0 +1,2 @@
+#Contains the list of string problems that can be asked in an interview 
+1. String reversal - Iterative,Recursive,STL 
