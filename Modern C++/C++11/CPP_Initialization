@@ -91,4 +91,3 @@ int y[5];
 public:
 C() : s("abc"), d(0.0), p(nullptr), y{1,2,3,4} {}
 };
-Bear in
